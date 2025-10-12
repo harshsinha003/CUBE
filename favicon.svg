@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style>
+      .cell { stroke: #000; stroke-width: 0.5; }
+    </style>
+  </defs>
+  <!-- Row 1 -->
+  <rect x="0" y="0" width="10.666" height="10.666" fill="#ffffff" class="cell"/>
+  <rect x="10.666" y="0" width="10.666" height="10.666" fill="#0051ba" class="cell"/>
+  <rect x="21.333" y="0" width="10.666" height="10.666" fill="#c41e3a" class="cell"/>
+  <!-- Row 2 -->
+  <rect x="0" y="10.666" width="10.666" height="10.666" fill="#ff5800" class="cell"/>
+  <rect x="10.666" y="10.666" width="10.666" height="10.666" fill="#009e60" class="cell"/>
+  <rect x="21.333" y="10.666" width="10.666" height="10.666" fill="#ffd500" class="cell"/>
+  <!-- Row 3 -->
+  <rect x="0" y="21.333" width="10.666" height="10.666" fill="#c41e3a" class="cell"/>
+  <rect x="10.666" y="21.333" width="10.666" height="10.666" fill="#ffd500" class="cell"/>
+  <rect x="21.333" y="21.333" width="10.666" height="10.666" fill="#0051ba" class="cell"/>
+</svg>
