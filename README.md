@@ -31,25 +31,6 @@ A beautiful, interactive 3D Rubik's Cube simulator built with HTML5, CSS3, and J
 - **HTML5**: Structure and canvas
 - **CSS3**: Styling and animations
 
-## Getting Started
-
-### Option 1: Run Locally
-1. Clone or download this repository
-2. Open `index.html` in your web browser
-3. Start solving!
-
-### Option 2: Use a Local Server
-For the best experience, run with a local server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js (if you have http-server installed)
-npx http-server
-
-# Then open http://localhost:8000 in your browser
-```
-
 ## Customization
 
 ### Themes
